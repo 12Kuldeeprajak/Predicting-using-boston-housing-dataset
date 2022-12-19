@@ -1,4 +1,4 @@
-# Predicting-using-boston-housing-dataset
+# Predicting-boston-housing-dataset
 Boston House Dataset: descriptive and inferential statistics, and prediction of the variable price .
 About The Boston Housing Dataset
 Boston housing is a classic dataset described in detail at University of Toronto's Website, and the data was originally published by Harrison, D. and Rubinfeld, D.L. 'Hedonic prices and the demand for clean air', J. Environ. Economics & Management, vol.5, 81-102, 1978.
